@@ -1,36 +1,90 @@
-<img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
+Use this as your `README.md`:
 
-**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
-The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
+```md
+# Sebastia (Kirby CMS)
 
-You can learn more about Kirby at [getkirby.com](https://getkirby.com).
+This repository contains the source code and content for the Sebastia website, built with [Kirby CMS](https://getkirby.com/).
 
-### Try Kirby for free
+## Tech Stack
 
-You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
+- Kirby CMS (PHP-based flat-file CMS)
+- PHP
+- Custom templates/snippets
+- Custom CSS and JavaScript
 
-### Get going
+## Repository Structure
 
-Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
+- `site/`  
+  Templates, snippets, controllers, config, blueprints, languages
+- `content/`  
+  Page content and media assets
+- `assets/`  
+  Frontend CSS, JS, fonts, images
+- `kirby/`  
+  Kirby core files
+- `media/`  
+  Generated runtime files (not tracked)
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
-If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
+## Local Development
 
-    git clone https://github.com/getkirby/plainkit.git
+### Requirements
 
-## What's Kirby?
+- PHP 8.x
+- Git
+- Git LFS (for media in `content/`)
 
--   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
--   **[Try it](https://getkirby.com/try)** – Take a test ride with our online demo. Or download one of our kits to get started.
--   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
--   **[Issues](https://github.com/getkirby/kirby/issues)** – Report bugs and other problems.
--   **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
--   **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
--   **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
--   **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
--   **[Bluesky](https://bsky.app/profile/getkirby.com)** – Spread the word.
+### Run locally
 
----
+From project root:
 
-© 2009 Bastian Allgeier
-[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
+```bash
+php -S localhost:8000 kirby/router.php
+```
+
+Then open:  
+`http://localhost:8000`
+
+## Git LFS and Media
+
+This repo uses Git LFS for heavy media files in `content/`.
+
+### One-time setup
+
+```bash
+git lfs install
+git lfs pull
+```
+
+If you clone the repo without LFS, media files may appear as pointer text files until `git lfs pull` is run.
+
+## Important: Ignored Runtime Folders
+
+These are intentionally excluded from version control:
+
+- `media/`
+- `site/cache/`
+- `site/sessions/`
+
+They are generated at runtime and should not be committed.
+
+## Current Environment Status
+
+- No permanent public live/staging URL is currently configured.
+- Source of truth is this repository plus local development environment.
+
+## Notes for Handover / External Review
+
+For technical review (e.g. hosting, deployment, maintenance), reviewers should focus on:
+
+1. Kirby/PHP hosting requirements
+2. Deployment workflow
+3. Backup strategy for `content/`
+4. Access/control model for CMS usage
+5. Staging environment setup
+
+## Contact
+
+Project owner / maintainer: `[ADD NAME + EMAIL]`
+```
+
+If you want, I can also give you a shorter “vendor-facing” version specifically for Vasser.
