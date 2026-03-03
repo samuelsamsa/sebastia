@@ -81,10 +81,3 @@ For technical review (e.g. hosting, deployment, maintenance), reviewers should f
 3. Backup strategy for `content/`
 4. Access/control model for CMS usage
 5. Staging environment setup
-
-## Contact
-
-Project owner / maintainer: `[ADD NAME + EMAIL]`
-```
-
-If you want, I can also give you a shorter “vendor-facing” version specifically for Vasser.
