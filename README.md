@@ -1,5 +1,3 @@
-Use this as your `README.md`:
-
 ```md
 # Sebastia (Kirby CMS)
 
