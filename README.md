@@ -1,4 +1,3 @@
-```md
 # Sebastia (Kirby CMS)
 
 This repository contains the source code and content for the Sebastia website, built with [Kirby CMS](https://getkirby.com/).
