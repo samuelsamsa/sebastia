@@ -1,0 +1,25 @@
+Title: Blaafarveværket
+----
+Donor: Stiftelsen Modums Blaafarveværk
+----
+Year: 1772
+----
+Type: Koboltgruve
+----
+Protection: 
+----
+Notes: Den donerte steinen kommer fra en koboltåre i koboltgruvene i Modum.
+Høsten 1772 skjedde et av de viktigste funnene i norsk historie. I Skuterudåsen på Modum skimter noen et underlig blåskjær i berget. Det er kobolt - et av verdens mest ettertraktede mineraler. Det skulle bli starten på et av norgeshistoriens største industrieventyr: Blaafarveværket.
+(link: https://blaa.no/koboltgruvene/ text: Koboltgruvene og Kittelsen-museet - Blaafarveværket)
+
+Kulturminnevern: Riksantikvaren
+----
+County: Buskerud
+----
+Municipality: Modum
+----
+Stone: Kobolt
+----
+Origin: Blaafarveværket koboltgruve
+----
+SizeQuantity: Én liten koboltstein

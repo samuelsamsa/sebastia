@@ -1,0 +1,48 @@
+Title: Steinbrudd
+
+----
+
+Donor: Geopark Sunnhordland
+
+----
+
+Year: Ca. 1900
+
+----
+
+Type: Steinbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Granittemne til ein boge til eit vindauge eller liknande, som ligg att i eit av steinbrota her.
+Truleg til eit bygg i Bergen, usikkert kva. Ikkje freda. Henta frå steinbrot i 1900.
+
+----
+
+County: Vestland
+
+----
+
+Municipality: Bømlo
+
+----
+
+Stone: Granitt
+
+----
+
+Origin: Bømlo
+
+----
+
+Sizequantity: Énbuet stein
+
+----
+
+Uuid: hiuprpdfbpxp1fqa

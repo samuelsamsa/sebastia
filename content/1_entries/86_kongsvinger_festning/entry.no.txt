@@ -1,0 +1,26 @@
+Title: Kongsvinger festning
+----
+Donor: Forsvarsbygg
+----
+Year: 1700-tallet
+----
+Type: Festning
+----
+Protection: 
+----
+Notes:
+Forsvarsbygg har i 2023 gjennomført et større vedlikeholdsarbeid av festningsmurene på Kronprinsens batteri på Kongsvinger festning. Tiltaket omfatter full demontering av murene på innsiden og omlegging av hele vollen. Tiltakene er omsøkt og godkjent med vedtak fra Riksantikvaren. Prosjekteringen og søknaden til Riksantikvaren har tatt høyde for noe utskifting av stein i murverket. Det gjelder stein som er satt i betong og hvor dette er krevende å fjerne, og hvor den enkelte stein samtidig er lite egnet i et murverk med forband og tverrband. Prosjektet har derfor som planlagt supplert med stein av en lokal type morenestein tilsvarende som funnet i muren, men med bedre egenskaper som forband og tverrband.
+Overskuddstein er, så langt det har latt seg gjøre, gjenbrukt i bakmuren, mens noe er sortert som uegnet og vil ikke bli gjenbrukt i prosjektet. Det er deler av denne siste sorteringen det nå åpnes for å gjenbruke i det nye bygulvetSubstitutei regjeringskvartalet.
+(link: https://forsvarsbygg.no/no/verneplaner/kongsvinger-festning/ text: https://forsvarsbygg.no/no/verneplaner/kongsvinger-festning/)
+
+Protection: Riksantikvaren
+----
+County: Innlandet
+----
+Municipality: Kongsvinger
+----
+Stone: Glimmerskifer, grønnstein, gneis og granitt
+----
+Origin: Dels flyttmateriale fra morene siste istid, og dels lokale mindre brudd med ukjent lokasjon
+----
+SizeQuantity: Fire paller med stein fra festningsmurene

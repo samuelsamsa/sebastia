@@ -1,0 +1,50 @@
+Title: Johansens Monumenthuggeri
+
+----
+
+Donor: Skjeberg
+
+----
+
+Year: 1946
+
+----
+
+Type: Steinhuggeri
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinhuggeriet ligger på Skjeberg og har vært virksomt siden 1946.
+Mange av steinene til Sebastia er blitt skjært til der.
+De har donert steiner av forskjellige opphav fra produksjon til ulik bruk.
+(link: https://johansenmonument.no/ text: Johansen Monumenthuggeri AS- Gravstein og Skulptur)
+
+----
+
+County: Østfold
+
+----
+
+Municipality: Sarpbsborg
+
+----
+
+Stone: Rennebugranitt, Lødingengranitt, Groruditt, Hallandia
+
+----
+
+Origin: Rennebu, Lødingen, Grorud, Halland
+
+----
+
+Sizequantity: n/a
+
+----
+
+Uuid: 9mf3bwpe1ozrdttt

@@ -1,0 +1,58 @@
+Title: Nidaros domkirke
+
+----
+
+Donor: Nidaros Domkirkes Restaureringsarbeider for Trøndelag Fylkeskommune
+
+----
+
+Year: Siden 1070
+
+----
+
+Type: Domkirke
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen er fra Nidaros domkirke.
+D - den gamle benevnelsen på Koret og dermed også Kongeinngangen.
+S - søndre side.
+U – utvendig.
+403 - 4.etasje, felt 3.
+490 - steinens unike nummer.
+Dette er en stein som ble byttet ut fra Kongeinngangen i forbindelse med nylig gjennomførte restaureringsarbeider. Den kommer fra Bjørnålia ved Mosjøen, og denne type stein ble benyttet mye i restaurering av kirka etter at jernbanen ble etablert nordover i landet. Hele 7500 m3 ble fraktet til Trondheim. Steinen har i ettertid vist seg å være av dårlig kvalitet til formålet, og er derfor nylig byttet ut.Ukjent forfatter2026-01-08T18:10:00Donated by the workshop, or is this sentence describing the donation path? Maybe pedantic, it’s hard to follow.Donert fra Nidaros Domkirkes Restaureringsarbeider til Trøndelag Fylkeskommune, og videre til kunstprosjekt.
+Donated by the workshop, or is this sentence describing the donation path? Maybe pedantic, it’s hard to follow.
+(link: https://www.nidarosdomen.no/historie-og-arkitektur text: https://www.nidarosdomen.no/historie-og-arkitektur)
+(link: https://snl.no/kleberstein text: kleberstein – Store norske leksikon)
+
+Protection: Riksantikvaren
+
+----
+
+County: Trøndelag
+
+----
+
+Municipality: Trondheim
+
+----
+
+Stone: Kleberstein
+
+----
+
+Origin: Bjørnålia ved Mosjøen
+
+----
+
+Sizequantity: Énstein, 37x27x12cm
+
+----
+
+Uuid: 74jwiuxcr5jtup0m

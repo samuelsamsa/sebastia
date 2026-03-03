@@ -1,0 +1,26 @@
+Title: Blaafarveværket
+----
+Donor: Stiftelsen Modums Blaafarveværk
+----
+Year: 1772
+----
+Type: Cobalt mine
+----
+Protection:
+----
+Notes:
+The donated stone comes from a cobalt vein in the cobalt mines in Modum.
+In the autumn of 1772, one of the most important discoveries in Norwegian history occurred. In Skuterudåsen at Modum, someone glimpses a strange blue streak in the rock. It is cobalt - one of the world's most sought-after minerals. It was to be the start of one of the greatest industrial adventures in Norwegian history: Blaafarveværket.
+(link: https://blaa.no/koboltgruvene/ text: Cobalt mines and the Kittelsen museum - Blaafarveværket)
+
+Protection: The Directorate for Cultural Heritage
+----
+County: Buskerud
+----
+Municipality: Modum
+----
+Stone: Cobalt
+----
+Origin: Blaafarveværket cobalt mine
+----
+SizeQuantity: One small cobalt stone

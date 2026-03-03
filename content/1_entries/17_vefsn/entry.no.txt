@@ -1,0 +1,45 @@
+Title: Steinlager
+
+----
+
+Donor: Mosjøen, Vefsn kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: Steinlager
+
+----
+
+Protection: 
+
+----
+
+Notes: Har donert en stein fra eget kommunelager i Mosjøen.
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Vefsn
+
+----
+
+Stone: Granitt
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Én stein. Granitthelle med dybde 15,3 cm. Den er nesten rektangulær (avvik på 2 cm på hver side). Så den må kuttes litt til. Rektangulær blir den: 20x50 cm/22x50 cm.
+
+----
+
+Uuid: 4gm1iohfe7otahkq

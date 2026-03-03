@@ -1,0 +1,25 @@
+Title: Storevatnet badeplass, Florø
+----
+Donor: Kinn kommune
+----
+Year: 2020
+----
+Type: Badeplass
+----
+Protection: 
+----
+Notes: Løkkebøsteinen, hentet på Løkkebø i Kinn, er avhard kvalitet, i kvartsitt, og brukes mye til murstein lokalt, blant annet langsStorevatnet i Florø og til Brandsøyåsen. Den er hovedsakelig lys grå, men den donerte steinen har også et rødskjær.
+Den donerte steinen er hentet i forbindelsemed oppgraderingen av Storevatnet badeplass i Florø.
+(link: https://kinn.kommune.no/ text: Kinn Kommune)
+(link: https://www.firdaposten.no/kommunen-rustar-opp-ved-storevatnet-no-blir-det-bade-finare-og-tryggare/s/5-16-390886 text: Artikkel om oppgradering av Storevatnet badeplass)
+(link: https://kinn.kommune.no/aktuelt/stein-fra-kinn-til-kunstprosjekt-i-regjeringkvartalet.12126.aspx text: Stein frå Kinn til kunstprosjekt i Regjeringkvartalet! - Kinn kommune)
+----
+County: Vestland
+----
+Municipality: Kinn
+----
+Stone: Løkkebostein (kvartsitt)
+----
+Origin: Løkkebo
+----
+SizeQuantity: Énstein

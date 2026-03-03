@@ -1,0 +1,25 @@
+Title: Risenga ungdomsskole
+----
+Donor: Asker kommune
+----
+Year: 2020
+----
+Type: Skole
+----
+Protection: 
+----
+Notes:
+Røykengranitt er en lokal stein, som har vært mye brukt i Askerregionen til små og store byggeprosjekter.
+Den donerte steinen har stått i en årrekke på Risenga, som er en skole og idrettspark.
+(link: https://www.asker.kommune.no/om-asker-kommune/askermagasinet/arkiv/arkiv-2023/stein-fra-asker-til-regjeringskvartalet/ text: Stein fra Asker til regjeringskvartalet | Asker kommune)
+(link: https://www.asker.kommune.no/skole-og-utdanning/skoler-og-skoleplass/skoleoversikt/risenga-ungdomsskole/ text: Risenga ungdomsskole | Asker kommune)
+----
+County: Akershus
+----
+Municipality: Asker
+----
+Stone: Røykengranitt
+----
+Origin: Røyken
+----
+SizeQuantity: Én stein

@@ -1,0 +1,45 @@
+Title: Skulptur
+
+----
+
+Donor: AK Dolven
+
+----
+
+Year: n/a
+
+----
+
+Type: Skulptur
+
+----
+
+Protection: 
+
+----
+
+Notes: n/a
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Fauske
+
+----
+
+Stone: Fauskemarmor
+
+----
+
+Origin: Fauske
+
+----
+
+Sizequantity: To steiner
+
+----
+
+Uuid: ucznnkfuhm1aj8a4

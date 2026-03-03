@@ -1,0 +1,26 @@
+Title: Sydvaranger mine
+----
+Donor: Pikene på Broen
+----
+Year: 1910
+----
+Type: Mine
+----
+Protection: 
+----
+Notes: The stones come from the Sydvaranger mine in Bjørnevatn outside Kirkenes.
+Iron ore was discovered in Kirkenes in 1866. The mine was built in 1910 and operated until 1997.
+Sydvaranger was the largest mine in Norway for most of its operational life. Large parts of the local community developed around the state-owned mine. The iron ore was transported from Bjørnevatn to the port of Kirkenes for further distribution.
+The mine was reopened with new private owners in 2009 but closed again in 2015. New owners are conducting geological surveys with plans to reopen the mine.
+(link: https://bergindustriarkivet.no/kartlegging-av-arkiv-hos-sydvaranger-drift-as text: Mapping of archives at Sydvaranger Drift AS - Norwegian Mining Industry Archive (Norwegian))
+(link: https://www.sydvaranger.com/history text: History Sydvaranger)
+----
+County: Finnmark
+----
+Municipality: Kirkenes
+----
+Stone: n/a
+----
+Origin: Bjørnevatn
+----
+SizeQuantity: Two small stones

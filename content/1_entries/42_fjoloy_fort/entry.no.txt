@@ -1,0 +1,52 @@
+Title: Fjøløy fort
+
+----
+
+Donor: Stavanger kommune
+
+----
+
+Year: 1940-41
+
+----
+
+Type: Kystfort/batteri
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinene er hentet fra Fjøløy fort.
+Batteriet på Fjøløy var en del av Artillerigruppe Stavanger – Nord som ble opprettet i Stavanger i april 1940, og besto av de tre batteriene på Randaberg, Kvitsøy og Fjøløy. Kommandoplassen lå på Kvitsøy. Batteriet var en del av det tyske forsvarssystemet som forsvarte innseilingen til Stavanger nordfra gjennom Boknafjorden og fra Nordsjøen.
+(link: https://www.forsvarsbygg.no/no/verneplaner/landsverneplan-for-forsvaret/sor-og-vestlandet/fjoloy/ text: Fjøløy fort (forsvarsbygg.no))
+(link: https://www.stavanger.kommune.no/kultur-og-fritid/tur-og-natur/finn-park-friomrade-og-badeplass/fjoloy/ text: https://www.stavanger.kommune.no/kultur-og-fritid/tur-og-natur/finn-park-friomrade-og-badeplass/fjoloy/)
+
+Kulturminnevern: Klasse 2 - verneverdige inventarer
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Stavanger
+
+----
+
+Stone: Gammel naturstein
+
+----
+
+Origin: Fjøløy
+
+----
+
+Sizequantity: Fire steiner
+
+----
+
+Uuid: ns1dibob4pfmywn7

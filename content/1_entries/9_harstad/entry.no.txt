@@ -1,0 +1,49 @@
+Title: Prosjekt Bypakke Harstad, Mercurveien
+
+----
+
+Donor: Troms fylkeskommune
+
+----
+
+Year: 2023
+
+----
+
+Type: Vei
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Arbeidene omfattet breddeutvidelse og etablering av veibelysning.
+Utbedring av Mercurveien nord besto i hovedsak av veiutbedring i form av breddeutvidelse, forbedring av horisontal- og vertikalkurvatur, redusere stigning, etablering av grøfter, snuplass, forsterkning, drenering og belysning.
+(link: https://www.harstadpakken.no/prosjekt/mercurvegen/ text: Mercurvegen - Harstadpakken)
+
+----
+
+County: Troms
+
+----
+
+Municipality: Harstad
+
+----
+
+Stone: Metaarkose
+
+----
+
+Origin: Harstad
+
+----
+
+Sizequantity: Én liten stein
+
+----
+
+Uuid: hrxgwr3wsjxak9hz

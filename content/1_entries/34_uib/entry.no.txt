@@ -1,0 +1,22 @@
+Title: Universitetet i Bergen, UiB
+----
+Donor: Johansens Monumenthuggeri Skjeberg
+----
+Year: 1946
+----
+Type: Universitet
+----
+Protection: 
+----
+Notes: Universitet ble opprettet i 1946. Bergen museum slo fast allerede 1892 at de skulle arbeide for å etablere høyere utdanning på Vestlandet.
+(link: https://www.uib.no/ text: Universitetet i Bergen)
+----
+County: Vestland
+----
+Municipality: Bergen
+----
+Stone: Grorudgranitt
+----
+Origin: Grorud, Oslo
+----
+SizeQuantity: n/a

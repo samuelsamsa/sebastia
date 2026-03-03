@@ -1,0 +1,49 @@
+Title: Monument/Bautastein for Rikssamlingsjubileet
+
+----
+
+Donor: Haugesund kommune
+
+----
+
+Year: 2021-22
+
+----
+
+Type: Monument / bautastein
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Den noterte bautasteinen skulle egentlig vært reist som et monument for Rikssamlingsjubileet.
+Hoggingen av teksten på steinen var dog mangelfullt utført, og bautaen ble derfor ikke reist.
+Etter flere runder blant de innblandede ble det besluttet at bautasteinen skulle doneres til kunstprosjektet i Regjeringskvartalet, med krav om at teksten var vendt nedover og ikke synlig.
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Haugesund
+
+----
+
+Stone: n/a
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Én stor bautastein
+
+----
+
+Uuid: h4gatbdszqrkx0l1

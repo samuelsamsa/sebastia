@@ -1,0 +1,22 @@
+Title: Bråstein bru
+----
+Donor: Statens vegvesen/Sandnes kommune
+----
+Year: 1925-26
+----
+Type: Bru
+----
+Protection: 
+----
+Notes: De donerte steinene, fortsatt med rester av kjettinger i seg, kommer fra den gamle Bråstein bru i Sandnes. Det er en jernbjelkebru og jernbetongbru på murte landkar og kar av stein. Den ble ombygget i 1925-1926. Den er trafikkert som kommunal veg.
+(link: https://digitaltmuseum.no/021018605669/brastein-bru-gammel-brastein-sandnes text: Bråstein bru (gammel) Bråstein Sandnes - Norsk vegmuseum / DigitaltMuseum)
+----
+County: Rogaland
+----
+Municipality: Sandnes
+----
+Stone: n/a
+----
+Origin: Trolig Sandnes
+----
+SizeQuantity: Tre store steiner

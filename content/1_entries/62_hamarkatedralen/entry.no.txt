@@ -1,0 +1,28 @@
+Title: Hamar domkirke
+----
+Donor: Anno Domkirkeodden/Innlandet fylkeskommune
+----
+Year: 1152
+----
+Type: Kirkeruin
+----
+Protection: 
+----
+Notes: Den donertesteinen er hentet fra Hamar domkirkeruin, og var benyttet i katedralens romanske fase som dateres til 1152- ca. 1200. Dette er en tilhugget kvaderstein benyttet i utvendig veggliv. Datering og bruk finnes i materialbruken som er mjøskalkstein, størrelse og i verktøyspor på visflatene. Det er viktig at huggesporene kommer frem i videre bruk i kunstprosjektet. Steinen har proveniens fra Furuberget hvor hamarbispen hadde steinbrudd i alle middelalderens faser.
+Hamar domkirke raste sammen etter en brann i 1567.
+For mer informasjon om middelaldersk steinbruk i Hamar bispedømme, sjekk ut Reinfjord, Kristian.2023,Stone Building. Organization and Development of Construction Technology in Eastern Norway c. 1130 – 1537, PhD thesis, University of Bergen.
+(link: https://domkirkeodden.no/ text: Forside - Domkirkeodden)
+(link: https://digitaltmuseum.no/hh/ text: DigitaltMuseum)
+
+Kulturminnevern: Riksantikvaren
+
+----
+County: Innlandet
+----
+Municipality: Hamar
+----
+Stone: Mjøskalkstein
+----
+Origin: Furuberget steinbrudd
+----
+SizeQuantity: Énbyggestein, 41,5 bred x 20 høy x24 dyp cm.

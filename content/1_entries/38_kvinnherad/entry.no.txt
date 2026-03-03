@@ -1,0 +1,52 @@
+Title: Kvinnherad eller Ænes kirke
+
+----
+
+Donor: Geopark Sunnhordland
+
+----
+
+Year: Fra 1200-tallet eller senere
+
+----
+
+Type: Steinbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+En skrotstein plukket utenfor fredningssonen, men som stammer fra bruddet hvor klebersteinen til Kvinnherad og Ænes kirke ble hentet på 1200-tallet og senere.
+(link: https://snl.no/Ænes_-_sokn text: Ænes – sokn – Store norske leksikon (snl.no))
+(link: https://snl.no/Kvinnherad_kirke text: Kvinnherad kirke – Store norske leksikon (snl.no))
+(link: https://www.geoparksunnhordland.no/lokalitetar/ text: https://www.geoparksunnhordland.no/lokalitetar/)
+
+Protection: UNESCO
+
+----
+
+County: Vestland
+
+----
+
+Municipality: Kvinnherad
+
+----
+
+Stone: Bergspytt (kleberstein)
+
+----
+
+Origin: Kvinnherad
+
+----
+
+Sizequantity: Énstein
+
+----
+
+Uuid: xmiydcb6fvrepkao

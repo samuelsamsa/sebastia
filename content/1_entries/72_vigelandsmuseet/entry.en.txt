@@ -1,0 +1,22 @@
+Title: Sculpture
+----
+Donor: AK Dolven
+----
+Year: n/a
+----
+Type: Sculpture
+----
+Protection: 
+----
+Notes:
+n/a
+----
+County: Nordland
+----
+Municipality: Fauske
+----
+Stone: Fauske marble
+----
+Origin: Fauske
+----
+SizeQuantity: Two stones

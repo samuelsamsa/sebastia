@@ -1,0 +1,21 @@
+Title: Eiriksdal kraftverk
+----
+Donor: Høyanger kommune
+----
+Year: 2023
+----
+Type: Tunnel til kraftverk
+----
+Protection: 
+----
+Notes: Høyanger kommune ligg på begge sider av Sognefjorden og har 3949 innbyggjarar. Kommunen har eit samla areal på 908 km2. Det meste av busetnaden er på nordsida med om lag 90 % som i hovudsak bur i tettstadene Høyanger, Kyrkjebø, Vadheim og Lavik. På sørsida finn ein bygdelaga Ortnevik, Bjordal og Ikjefjord. Kommunen er eit resultat av samanslåinga av kommunane Kyrkjebø og Lavik i 1964.
+----
+County: Vestland
+----
+Municipality: Høyanger
+----
+Stone: Gneis med foliasjoner
+----
+Origin: Høyanger
+----
+SizeQuantity: Flere enn ti store blokker

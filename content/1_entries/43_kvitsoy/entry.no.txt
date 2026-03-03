@@ -1,0 +1,23 @@
+Title: Rogfasttunnelen
+----
+Donor: Kvitsøy kommune/Statens vegvesen
+----
+Year: 2023-2031
+----
+Type: Tunnel
+----
+Protection: 
+----
+Notes: Tunnelstein fra Rogfast. Hentet ut fra 2500 meter inn i tunnelen, fra tunnelåpningen på Kvitsøy, som ligger ca. 180 meter under havet. Tunnelen vil være den lengste tunnelen i Norge som går under vann.
+(link: https://www.nrk.no/emne/rogfast-1.11080709 text: Rogfast – Alle artikler – NRK)
+----
+County: Rogaland
+----
+Municipality: Kvitsøy
+----
+Stone: (annet)
+Grønnstein
+----
+Origin: Rogfast
+----
+SizeQuantity: Énpall med syv mindre steiner

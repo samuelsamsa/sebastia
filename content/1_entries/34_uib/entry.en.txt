@@ -1,0 +1,23 @@
+Title: University of Bergen, UiB
+----
+Donor: Johansens Monumenthuggeri Skjeberg
+----
+Year: 1946
+----
+Type: University
+----
+Protection: 
+----
+Notes:
+The university was established in 1946. Bergen Museum stated as early as 1892 that they would work towards establishing higher education in Western Norway.
+(link: https://www.uib.no/ text: University of Bergen)
+----
+County: Vestland
+----
+Municipality: Bergen
+----
+Stone: Grorud granite
+----
+Origin: Grorud, Oslo
+----
+SizeQuantity: n/a

@@ -1,0 +1,25 @@
+Title: Regjeringskvartalet 
+----
+Donor: Statsbygg
+----
+Year: (annet)
+Ferdig 2029
+----
+Type: Regjeringskvartal
+----
+Protection: 
+----
+Notes:
+(link: https://snl.no/Regjeringskvartalet text: Regjeringskvartalet – Store norske leksikon)
+
+Protection: Riksantikvaren
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Grorudgranitt
+----
+Origin: Grorud, Oslo
+----
+SizeQuantity: To steiner

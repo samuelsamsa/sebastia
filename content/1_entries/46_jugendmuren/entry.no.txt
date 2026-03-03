@@ -1,0 +1,54 @@
+Title: Jugendmuren, Nytorget
+
+----
+
+Donor: Stavanger kommune
+
+----
+
+Year: Nytorget i 1848, Jugendmuren i 1922
+
+----
+
+Type: Torgmur
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinene kommer fra Jugendmuren på Nytorget.
+Etter byutvidelsen i 1848 ble Nytorget anlagt. Torget ble mye brukt av bønder som kom med hest og kjerre. Torget ble også brukt til taler, folkemøter, etc.
+I 1922 fikk Nytorget sin nåværende form med steinmur mot Pedersgata.Det var i mange år forslag om ulike offentlige toalettanlegg under Nytorget, men planene ble trolig ikke realisert før i 1950, som en del av Jugendmuren. Toalettet har dog vært stengt i lang tid.
+Torget har også vært brukt som kommunalt materiallager, og som oppstillingsplass for busser.
+Nytorget er siden 2023 under rehabilitering og skal utvides med park.
+(link: https://stavangerbyarkiv.no/nettutstillinger/nytorget/ text: Nytorget - Stavanger Byarkiv)
+(link: https://www.stavanger.kommune.no/bolig-og-bygg/byggeprosjekter-ny/nytorget-blir-park/ text: Nytorget blir park | Stavanger kommune)
+(link: https://www.spacegroup.no/nytorget text: Nytorget – SPACEGROUP)
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Stavanger
+
+----
+
+Stone: n/a
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Tre paller med mindre steiner
+
+----
+
+Uuid: dcvo05bvpbldmctl

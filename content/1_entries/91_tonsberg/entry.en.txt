@@ -1,0 +1,23 @@
+Title: Street in Tønsberg
+----
+Donor: Tønsberg municipality
+----
+Year: n/a
+----
+Type: Street
+----
+Protection: 
+----
+Notes:
+Most likely from a street in the centre of Tønsberg. The stones are not protected.Examinations of the medieval churches in Tønsberg show details carved in red Tønsbergite, which indicates stonemasonry activity around Tønsberg already in the Middle Ages.
+(link: https://www.tonsberg.kommune.no/tjenester/kultur-idrett-og-fritid/kulturminner-og-middelalderfestivaler/kulturminner/ text: https://www.tonsberg.kommune.no/tjenester/kultur-idrett-og-fritid/kulturminner-og-middelalderfestivaler/kulturminner/)
+----
+County: Vestfold
+----
+Municipality: Tønsberg
+----
+Stone: Tønsbergite
+----
+Origin: Tønsberg
+----
+SizeQuantity: Two largecobblestones

@@ -1,0 +1,48 @@
+Title: Svinesund kontrollstasjon
+
+----
+
+Donor: Statens vegvesen
+
+----
+
+Year: 2005
+
+----
+
+Type: Kontrollstasjon
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen er hentet utenfor kontrollhall G.
+Ved Svinesund kontrollområde utfører Tollvesenet, Statens vegvesen og politiet varedeklarering og kontroll av kjøretøy ved grenseovergangen mellom Sverige og Norge.
+
+----
+
+County: Østfold
+
+----
+
+Municipality: Halden
+
+----
+
+Stone: Trolig gneis
+
+----
+
+Origin: Trolig Østlandet
+
+----
+
+Sizequantity: Énliten stein
+
+----
+
+Uuid: w66ebphgjkdgd3aa

@@ -1,0 +1,51 @@
+Title: Sydvaranger mine
+
+----
+
+Donor: Pikene på Broen
+
+----
+
+Year: 1910
+
+----
+
+Type: Gruve
+
+
+----
+
+Protection: 
+
+----
+
+Notes: Steinene kommer fra Sydvaranger gruve i Bjørnevatn utenfor Kirkenes.
+Det ble oppdaget jernmalm i Kirkenes i 1866. Gruven ble anlagt i 1910 og var i drift til 1997.
+Sydvaranger var den største gruven i Norge i mesteparten av sin levetid. Store deler av samfunnet ble bygget opp rundt gruvedriften og staten var eier. Jernmalmen ble fraktet fra Bjørnevatn til Kirkenes havn for transport.
+Gruven ble åpnet igjen med nye private eiere i 2009, men stengte igjen i 2015. Nok et par nye eiere gjør geologiske undersøkelser med planer om å gjenåpne gruven.
+(link: https://bergindustriarkivet.no/kartlegging-av-arkiv-hos-sydvaranger-drift-as text: Kartlegging av arkiv hos Sydvaranger Drift AS - Norsk bergindustriarkiv)
+(link: https://www.sydvaranger.com/historie text: Historie)Sydvaranger
+
+----
+
+County: Finnmark
+
+----
+
+Municipality: Kirkenes
+
+----
+
+Stone: n/a
+
+----
+
+Origin: Bjørnevatn
+
+----
+
+Sizequantity: To små steiner
+
+----
+
+Uuid: pusvoupu6f2as5lw

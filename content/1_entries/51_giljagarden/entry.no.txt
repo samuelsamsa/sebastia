@@ -1,0 +1,49 @@
+Title: Gilja gård
+
+----
+
+Donor: Torgeir Lid og Siri Aavitsland
+
+----
+
+Year: 1920
+
+----
+
+Type: Eldhus og gjerdestolpe
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Det er donert to steiner fra Giljagarden i Gjesdal. En stein er hentet ut fra en vegg i et steinhus, og en stein er en eldre gjerdestolpe.
+Garden er et privat småbruk, der eierne også arrangerer kunst- og fotoutstillinger, barneteater og ulike litteraturarrangementer i sauehuset.
+(link: https://kulturminnefondet.no/prosjekt/gilja/ text: Fra låve til fritidsbolig med kunstutstillinger i sauehuset (kulturminnefondet.no))
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Gjesdal
+
+----
+
+Stone: n/a
+
+----
+
+Origin: Gjesdal
+
+----
+
+Sizequantity: To steiner
+
+----
+
+Uuid: vp2ehary9dcm1knp

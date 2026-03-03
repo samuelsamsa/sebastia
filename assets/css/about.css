@@ -1,0 +1,145 @@
+/* About page */
+.about-grid {
+  display: grid;
+  grid-template-columns: 5vw 1fr 5vw;
+  gap: 0; /* adjust to match your panel spacing */
+  background-color: var(--white);
+}
+
+.column-grid {
+  grid-column: 2/3;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0; /* adjust to match your panel spacing */
+}
+
+.column-grid .column {
+  grid-column: span var(--span);
+}
+
+.blocks img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 30px;
+  mix-blend-mode: multiply;
+}
+
+.blocks figure {
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+.column {
+ outline: 1px solid var(--blue);
+    outline-offset: -0.5px;
+    padding: 0.5em;
+}
+
+.blocks p {
+  line-height: 1.5;
+  font-size: 0.9em;
+}
+
+.column:has(p) {
+  padding: 2em;
+}
+
+.blocks h2 {
+  line-height: 1.2;
+  font-family: 'Install', sans-serif;
+  font-size: 2em;
+}
+
+.blocks h1 {
+  line-height: 1.2;
+  font-family: 'Install', sans-serif;
+  font-size: 4em;
+  padding: 1em;
+  text-align: center;
+}
+
+.blocks p {
+  font-family: Install Light, sans-serif;
+  font-size: 1.1em;
+}
+
+.blocks > p:first-child {
+  margin-block-start: 0;
+}
+
+.blocks > p:last-child {
+  margin-block-end: 0;
+}
+
+.blocks > * {
+  opacity: 0;
+  transform: translateY(24px);
+  transition:
+    opacity 600ms cubic-bezier(.2,.8,.2,1),
+    transform 600ms cubic-bezier(.2,.8,.2,1);
+  will-change: opacity, transform;
+}
+
+.blocks > *.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.blocks figure {
+  position: relative;
+  overflow: hidden;
+}
+
+.blocks figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.blocks figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0.5em 1em;
+  background: var(--white);
+  color: black;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  font-size: 0.7rem;
+  border-radius: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 1em;
+}
+
+/* Hover effect: caption appears */
+.blocks figure:hover figcaption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.blocks figure:focus-within figcaption,
+.blocks figure:focus figcaption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Touch fallback: caption appears when JS toggles the figure state */
+.blocks figure.is-caption-visible figcaption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.blocks figure.about-media {
+  cursor: pointer;
+}
+
+.blocks figure.about-media:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 2px;
+}

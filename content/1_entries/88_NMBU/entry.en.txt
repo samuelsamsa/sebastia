@@ -1,0 +1,29 @@
+Title: Campus Ås
+----
+Donor: Norwegian University of Life Sciences (NMBU)
+----
+Year: 1859
+----
+Type: University
+----
+Protection:
+----
+Notes:
+In 1859, the Higher Agricultural School in Ås was established, and changed its name in 1897 to the Norwegian Agricultural College (NLH).
+Alongside teaching, research was a main task from the start. The school was conducting comprehensive experiments to develop agricultural methods and cultural plants for Norwegian conditions.
+In 2005, the school was granted the status of university and changed its name to the University of Environmental and Biosciences (UMB). In 2014, UMB was merged with the Norwegian School of Veterinary Science and Technology, and changed its name to the Norwegian University of Life Sciences (NMBU).
+The core areas of teaching, basic and applied research, are bioproduction (forestry, agriculture, aquaculture, food and veterinary medicine), economics, land and natural resource management, landscape, technology, science, chemistry, folk and animal health, as well as social sciences.
+Campus Ås houses, in addition to NMBU, among others, the(link: https://www.vetinst.no/ text: Veterinary Institute),(link: https://www.nibio.no/ text: NIBIO)and(link: https://nofima.no/ text: Nofima).
+(link: https://www.nmbu.no/om text: Om NMBU | NMBU)
+(link: https://www.nmbu.no/om/campus text: Campus | NMBU)(link: https://www.statsbygg.no/prosjekter-og-eiendommer/campus-aas text: Campus Ås - Statsbygg)CountyAkershusMunicipalityÅs
+----
+County: Akershus
+----
+Municipality: Ås
+----
+Stone: Larvikite, red and grey Granite
+----
+Origin: Red granite from Nordskogen, Ås - late 1800s
+Larvikite and grey granite from building Uraksen - 2015-2021
+----
+SizeQuantity: Three stones from campus

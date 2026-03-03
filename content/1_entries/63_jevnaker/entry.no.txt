@@ -1,0 +1,51 @@
+Title: Strandpromenade. Jevnaker
+
+----
+
+Donor: Jevnaker kommune/Statens vegvesen
+
+----
+
+Year: 2023-2025
+
+----
+
+Type: Strandpromenade
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinene er hentet i forbindelse med byggingen av en strandpromenade i Jevnaker i 2023-25.
+Det skal lages en flott strandpromenade med utsiktspunkter og brygge. Det er satt av 80 millioner kroner til tiltak på dagens E16 gjennom Jevnaker. Alle som har litt kjennskap tilveibygging,vet at det ikke rekker langt. Derfor har Vegvesenet, sammen med kommunen og Skanska, tenkt ut av boksen for å få mest mulig for pengene som er satt av til lokale tiltak i Jevnaker. Nøkkelen ligger blant annet i å kunne frakte steinmasser fra den nye E16 Olum-Åsbygda direkte ned til Verkevika, og gi dem et år til å komprimere seg på plass.
+(link: https://www.jevnaker.kommune.no/strandpromenaden-skal-bygges-av-dokka-entreprenoer.6615390-557877.html text: Strandpromenaden skal bygges av Dokka Entreprenør - Jevnaker kommune)
+(link: https://snl.no/rombeporfyr text: rombeporfyr – Store norske leksikon)
+(link: https://www.jevnaker.kommune.no/ti-tonn-jevnaker-stein-til-det-nye-regjeringskvartalet.6611921-505248.html text: Ti tonn Jevnaker-stein til det nye regjeringskvartalet - Jevnaker kommune)
+
+----
+
+County: Akershus
+
+----
+
+Municipality: Jevnaker
+
+----
+
+Stone: n/a
+
+----
+
+Origin: Svenådalen
+
+----
+
+Sizequantity: Flere paller rombeporfyr
+
+----
+
+Uuid: qik4tkjb5qd78ykl

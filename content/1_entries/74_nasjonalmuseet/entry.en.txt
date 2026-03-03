@@ -1,0 +1,25 @@
+Title: The National Museum
+----
+Donor: Statsbygg
+----
+Year: 2014-2021
+----
+Type: Museum
+----
+Protection: 
+----
+Notes:
+The stones are remnants from the construction of the facade of the new National Museum at Aker Brygge in Oslo.
+The new museum organisation was established in 2003 through a merger of the National Gallery, the Museum of Architecture, the Museum of Decorative Arts and the Museum of Contemporary Art. The various exhibition venues closed between 2016 and 2019, and they moved into their new combined premises in 2021-2022.
+(link: https://www.statsbygg.no/prosjekter-og-eiendommer/nytt-nasjonalmuseum text: New National Museum - Statsbygg)
+(link: https://www.nasjonalmuseet.no/om-nasjonalmuseet/tidligere-visningssteder/ text: Previous exhibition locations – The National Museum)
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Oppdal slate
+----
+Origin: Oppdal
+----
+SizeQuantity: Approx. six pallets

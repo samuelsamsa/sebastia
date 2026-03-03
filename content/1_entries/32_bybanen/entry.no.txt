@@ -1,0 +1,24 @@
+Title: Bybanen, Bergen
+----
+Donor: Vestland fylkeskommune
+----
+Year: 2010
+----
+Type: Holdeplass, Bybanen
+----
+Protection: 
+----
+Notes: Steinene er fra bybanestoppenes holdeplasser fra fase 1 av utbyggingen.
+«Hvit linje - er markøren i bylandskapet - kjennemerket for vår bane, og en viktig del av Bybanens merkevare. Den bidrar til å skape et estetisk, ryddig og urbant utrykk på banetraseen, der den går gjennom ulike landskaps- og byrom».
+Evjengranitt er brukt på alle holdeplasser (med noe få unntak), og har vært med helt fra designkonkurransen (2005) i forkant av byggefase 1; «Holdeplassen er Bybanens håndtrykk til den reisende. Den er trygg, tørr og tilgjengelig for alle. Møblering, glassvegger og sanntidsinformasjon gir rom for avslappet venting og visshet om at du ser når banen kommer».
+(link: http://www.bybanensveileder.no/ text: www.bybanensveileder.no)
+----
+County: Vestland
+----
+Municipality: Bergen
+----
+Stone: Evjengranitt
+----
+Origin: Evje
+----
+SizeQuantity: To store blokker og fire mindre

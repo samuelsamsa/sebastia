@@ -1,0 +1,48 @@
+Title: Veimur
+
+----
+
+Donor: Nord-Fron kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: Veimur
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Veimur i lokal stein mellom Vinstra stasjon og Nord-Fron kommunehus.
+(link: https://snl.no/Vinstra text: Vinstra – Store norske leksikon)
+
+----
+
+County: Innlandet
+
+----
+
+Municipality: Nord-Fron
+
+----
+
+Stone: Kvartsitt
+
+----
+
+Origin: Nord-Fron
+
+----
+
+Sizequantity: Én liten stein
+
+----
+
+Uuid: bqmuwkosprpwyli0

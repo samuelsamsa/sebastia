@@ -1,0 +1,49 @@
+Title: Kvartsittbrudd på Mårnes, Sandhornøya
+
+----
+
+Donor: Gildeskål kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: Steinbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Kvartsittbruddet på Mårnes driftes av Elkem ASA,et kinesisk-eid, norsk industrikonsern med historiedatert tilbake til 1904. Elkem produserer silisium og silisiumprodukter, og dekker hele verdikjeden fra kvarts til spesialiserte silikonprodukter, ferrosilisium og karbonmaterialer. Den donerte steinen er rester fra steinbruddproduksjonen.
+(link: https://snl.no/Mårnes text: Mårnes – Store norske leksikon (snl.no))
+(link: https://snl.no/kvartsitt text: kvartsitt – Store norske leksikon)
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Gildeskål
+
+----
+
+Stone: Kvartsitt
+
+----
+
+Origin: Mårnes
+
+----
+
+Sizequantity: Én pallekarm med rød og hvit kvartsitt
+
+----
+
+Uuid: ucqpcj6imk2omkds

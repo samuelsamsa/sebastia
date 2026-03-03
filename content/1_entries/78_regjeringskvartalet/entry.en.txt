@@ -1,0 +1,25 @@
+Title: The Government Quarter
+----
+Donor: Statsbygg
+----
+Year: (other)
+Finished 2029
+----
+Type: Government Quarter
+----
+Protection:
+----
+Notes:
+(link: https://snl.no/Regjeringskvartalet text: Regjeringskvartalet – Store norske leksikon)
+
+Protection: The Directorate for Cultural Heritage
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Grorud granite
+----
+Origin: Grorud, Oslo
+----
+SizeQuantity: Twostones

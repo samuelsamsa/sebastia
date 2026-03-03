@@ -1,0 +1,24 @@
+Title: Project City Package Harstad, Mercurveien
+----
+Donor: Troms County Council
+----
+Year: 2023
+----
+Type: Road
+----
+Protection: 
+----
+Notes:
+The work included widening the road and establishing road lighting.
+Improvement of Mercurveien north mainly consisted of road improvement in the form of widening, improving horizontal and vertical curvature, reducing gradient, establishing ditches, turning space, reinforcement, drainage and lighting.
+(link: https://www.harstadpakken.no/prosjekt/mercurvegen/ text: Mercurvegen - Harstadpakken)
+----
+County: Troms
+----
+Municipality: Harstad
+----
+Stone: Meta-arkose
+----
+Origin: Harstad
+----
+SizeQuantity: One small stone

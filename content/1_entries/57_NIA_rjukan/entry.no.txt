@@ -1,0 +1,53 @@
+Title: Vemork hydrogenfabrikk
+
+----
+
+Donor: NIA - Norsk industriarbeidermuseum, Vemork
+
+----
+
+Year: 1928
+
+----
+
+Type: Hydrogenfabrikk
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Veggfragment frå tungtvannskjelleren på den gamle hydrogenfabrikken på Vemork, 1928
+Veggfragmentet er henta ut i samband med utgravinga av tungtvannskjelleren på Vemork. Fragmentet er frå ein innvendig vegg på åstaden for den risikable sabotasjeaksjonen, der tungtvannscellene på Vemork vart sprengt og okkupasjonsmakta vart hindra i å utvikle ei mulig atombombe, natt til 28. februar 1943. Kjellaren er freda etter kulturminnelova, og denneUkjent forfatter2026-01-11T18:21:00Do they mean the fragment? A bit unclear.bitener i prinsippet ein del av fredinga. Bruken til dette formålet er likevel uproblematisk, og er avklart med kulturarvseksjonen i Vestfold og Telemark fylkeskommune.
+Do they mean the fragment? A bit unclear.
+(link: https://www.nia.no/vemork text: https://www.nia.no/vemork)
+(link: https://www.industriarven.no/ text: https://www.industriarven.no/)
+
+Kulturminnevern : Kulturminneloven
+
+----
+
+County: Telemark
+
+----
+
+Municipality: Tinn
+
+----
+
+Stone: Betong
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Ett betongfragment
+
+----
+
+Uuid: 0yawuumcwqxfeaji

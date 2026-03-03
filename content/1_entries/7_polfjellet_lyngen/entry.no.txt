@@ -1,0 +1,49 @@
+Title: Fylkesveg 868, Polfjelltunnelen sør
+
+----
+
+Donor: Troms fylkeskommune
+
+----
+
+Year: 2023
+
+----
+
+Type: Skredoverbygg
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen er hentet fra skredoverbygget som skal rassikre Polfjelltunnelen sør.
+(link: https://www.tromsfylke.no/tjenester/samferdsel/fylkesvei/veiprosjekter/fv-868-skredsikring-pollfjellet/ text: Fv. 868 Pollfjelltunnelen sør – Skredoverbygg - Troms fylkeskommune)
+(link: https://no.wikipedia.org/wiki/Pollfjellet_(Lyngen) text: Pollfjellet (Lyngen) – Wikipedia)
+
+----
+
+County: Troms
+
+----
+
+Municipality: Lyngen
+
+----
+
+Stone: Kvarts
+
+----
+
+Origin: Polfjellet
+
+----
+
+Sizequantity: Énliten stein
+
+----
+
+Uuid: ziaigf2qwnvir1iw

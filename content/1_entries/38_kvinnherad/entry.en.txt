@@ -1,0 +1,27 @@
+Title: Kvinnherad or Ænes church
+----
+Donor: Geopark Sunnhordland
+----
+Year: From the 13th century or later
+----
+Type: Quarry
+----
+Protection: 
+----
+Notes:
+A scrap stone picked outside the conservation area, but originating from the quarry where the soapstone for Kvinnherad and Ænes church was obtained in the 13th century and later.
+(link: https://snl.no/Ænes_-_sokn text: Ænes – sokn – Store norske leksikon (snl.no))
+(link: https://snl.no/Kvinnherad_kirke text: Kvinnherad kirke – Store norske leksikon (snl.no))
+(link: https://www.geoparksunnhordland.no/lokalitetar/ text: https://www.geoparksunnhordland.no/lokalitetar/)
+
+Protection: UNESCO
+----
+County: Vestland
+----
+Municipality: Kvinnherad
+----
+Stone: Bergspytt (soapstone)
+----
+Origin: Kvinnherad
+----
+SizeQuantity: One stone

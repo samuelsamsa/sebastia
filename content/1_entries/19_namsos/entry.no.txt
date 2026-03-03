@@ -1,0 +1,49 @@
+Title: Veimur
+
+----
+
+Donor: Namsos kommune
+
+----
+
+Year: Etter 1955
+
+----
+
+Type: Mur
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Veimurmed stein fra tidligere Namsos kirke, 1897-1903/1645-1955.Tørrmuren i Niels Bjørums gate 14-28 er bygget opp av stein fra tidligere Namsos kirke. En langkirke i gråstein, tegnet av Karl Norum, ble vigslet den 18. desember 1903. Den 20. april 1940 ble Namsos bombet, og alt brennbart i kirken brant slik at bare murene stod igjen. Disse ble besluttet revet, og ny kirke ble oppført etter krigen.
+(link: https://digitaltmuseum.no/011015370611/namsos-kirke-1903-1940 text: Namsos kirke 1903-1940 - Digitalt Museum)
+(link: https://digitaltmuseum.no/011015367956/namsos-kirke-etter-bombingen-20-04-1940 text: Namsos kirke etter bombingen 20.04.1940 - Digitalt Museum)
+
+----
+
+County: Trøndelag
+
+----
+
+Municipality: Namsos
+
+----
+
+Stone: Omtalt som gråstein, sannsynligvis granitt
+
+----
+
+Origin: Namsos
+
+----
+
+Sizequantity: Énstein, ekstrahert
+
+----
+
+Uuid: f2lcy1iuu3s95bvq

@@ -1,0 +1,23 @@
+Title: Rogfast Tunnel
+----
+Donor: Kvitsøy Municipality/Norwegian Public Roads Administration
+----
+Year: 2023-2031
+----
+Type: Tunnel
+----
+Protection: 
+----
+Notes:
+Tunnel stone from Rogfast. Retrieved from 2500 meters into the tunnel, from the tunnel opening on Kvitsøy, which is located about 180 meters below the sea. The tunnel will be the longest tunnel in Norway that runs underwater.
+(link: https://www.nrk.no/emne/rogfast-1.11080709 text: Rogfast – All articles – NRK)
+----
+County: Rogaland
+----
+Municipality: Kvitsøy
+----
+Stone: Greenstone
+----
+Origin: Rogfast
+----
+SizeQuantity: One pallet with seven smaller stones

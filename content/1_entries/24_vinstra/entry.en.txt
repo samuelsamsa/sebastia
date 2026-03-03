@@ -1,0 +1,23 @@
+Title: Road wall
+----
+Donor: Nord-Fron Municipality
+----
+Year: n/a
+----
+Type: Road wall
+----
+Protection: 
+----
+Notes:
+Road wall made from local stone between Vinstra station and Nord-Fron municipal building.
+(link: https://snl.no/Vinstra text: Vinstra – Store norske leksikon)
+----
+County: Innlandet
+----
+Municipality: Nord-Fron
+----
+Stone: Quartzite
+----
+Origin: Nord-Fron
+----
+SizeQuantity: One small stone

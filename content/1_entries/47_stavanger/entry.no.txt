@@ -1,0 +1,57 @@
+Title: Kongsgata, Lervigskaien
+
+----
+
+Donor: Stavanger kommune
+
+----
+
+Year: Kongsgata i 1861, Lervigskaien mellom 1917-1937
+
+----
+
+Type: Gatestein, kantstein, kaibelegg
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinene er donert fra kommunens overskuddslager.
+Mange av steinene har tidligere vært brukt som gatestein og kantstein i Kongsgata.
+De største steinblokkene kommer fra kaibelegning ved Stavanger Cementvarefabrikk ved Lervigskaien, som var en viktig del av Stavanger havn.
+Lervigskaien ble bygget i 1917-1937. Den var vesentlig for byens vekst. Stavanger Cementfabrikk ble startet i 1897. De produserte ikke bare kloakkrør i sement, men ogsåmosaikk, betongtrapper, sementhulstein, servantplater, elektriske apparater og annet bygningsmateriale. De spesialiserte seg også i produksjon av bygningskalk, melkalk og gjødningskalk for landbruket. I tillegg produserte de leketøy.
+I dag er området ved Lervig bygget om til kombinert bolig- og næringsområde.
+(link: https://stavangerbyarkiv.no/kongsgata/ text: Kongsgata - Stavanger Byarkiv)
+(link: https://no.wikipedia.org/wiki/Stavanger_cementvarefabrikk text: Stavanger cementvarefabrikk – Wikipedia)
+(link: https://stavangerbyarkiv.no/lervigsveien/ text: Lervigsveien - Stavanger Byarkiv)
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Stavanger
+
+----
+
+Stone: n/a
+
+----
+
+Origin:
+
+Mange av gatesteinene stammer fra Portugal.
+Ellers n/a.
+
+----
+
+Sizequantity: Store mengder med paller og stein
+
+----
+
+Uuid: hjzyxaivotlxgnsv

@@ -1,0 +1,57 @@
+Title: Selja kloster
+
+----
+
+Year: Trolig slutten av 1000-tallet, nedlagt rundt 1470
+
+----
+
+Type: Klosterruin
+
+----
+
+Donor: Vestland fylkeskommune
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Klosterøya Selja var viktig for etableringa av den norske kyrkja. Her kom det tidleg både kloster og kyrkjer og den første norske helgenen, St. Sunniva.
+
+Valet av fire steinar er også knytt til historia om guds fire døtrer: Sanning, Fred, Rettferd og Miskunn. Denne historia kom inn i Magnus Lagabøte si landslov i 1274, og ettersom vi feirar landslovjubileet i år (2024) passa det godt med ein slik referanse. Steinane frå Selja er henta frå ein deponihaug på Selja, og blir del av kunstverket i regjeringskvartalet: to stk. gneis, ein rektangulær og ein flat. Desse er representative for delen av klosteranlegget som ikkje er bygd i olivin. Éin stk. eklogitt som finst som lausstein i området. Éin stk. olivinstein utan dekorasjonar. Steinen vart vurdert av geolog til å vere hard nok til å ligge i eit trafikkert golv/offentleg uteareal, helst kanskje i eit område som ikkje har mykje trafikk.
+
+(link: https://www.seljakloster.com/ text: Selja Kloster)
+(link: https://vestlandfylke.no/landslovjubileet/dei-fire-guddomlege-systrene--verdisamtalar-i-kyrkja-til-magnus-lagabote/ text: Guds fire døtre - Vestland Fylkeskommune)
+(link: https://snl.no/Selja_kloster text: Selja kloster – Store norske leksikon)
+
+Kulturminnevern: Riksantikvaren
+
+Steinuttaket er godkjent av både fylkeskommunen, Universitetet i Bergen og Norsk institutt for kulturminneforskning (NIKU), i og med at klosteranlegget er automatisk freda (Riksantikvaren).
+
+----
+
+County: Vestland
+
+----
+
+Municipality: Stad
+
+----
+
+Stone: To gneis, én ekologitt, én olivinstein
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Fire steiner i størrelsen 12-20x12-20 x12 cm.
+
+----
+
+Uuid: xncftfakkoksaaza

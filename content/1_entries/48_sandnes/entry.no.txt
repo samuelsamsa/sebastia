@@ -1,0 +1,51 @@
+Title: Langgata
+
+----
+
+Donor: Sandnes kommune
+
+----
+
+Year: Anlagt 1849, oppgradert senest i 2015
+
+----
+
+Type: Gate
+
+----
+
+Protection: Byantikvaren Sandnes
+
+----
+
+Notes:
+
+De donerte steinene kommer fra Langgatas periode som gågate mellom 1983-2015.
+Langgatavar opprinnelig et tråkk og en ridesti langs stranden. Den fikk status som hovedvei mellom Stavanger og Jæren i 1849. Fortauene ble belagt med heller i perioden 1886 til 1910. Den historiske sveitserstilbebyggelsen som preger Langgata i dag, ble bygget i denne tidsperioden.
+Fra 1920-årene og utover fikk deler av Langgata brulegging med firkanta stein, mens resten av gaten ble asfaltert til byjubileet i 1935.
+I årene 1983-84 ble Langgata gjort om til en gågate og belagt med gatestein, marktegl og firkantete betongheller. Sandnes sentrum preges i dag av et lappeteppe av ulike gategulv.
+I 2015 ble Langgata belagt med mørke granittheller.
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Sandnes
+
+----
+
+Stone: Skifer, marktegl, betongheller, små og store gatestein, granitt
+
+----
+
+Origin: Delvis Hardanger
+
+----
+
+Sizequantity: Store mengder i ulike størrelser
+
+----
+
+Uuid: plwswoybxjdaor2e

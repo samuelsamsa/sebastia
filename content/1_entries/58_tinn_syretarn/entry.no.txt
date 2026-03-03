@@ -1,0 +1,26 @@
+Title: Syretårn, Hydro
+----
+Donor: Hydro Energi
+----
+Year: 1910-11
+----
+Type: Syretårn
+----
+Protection: 
+----
+Notes: Det eine syretårnet som er igjen på Rjukan er freda etter kulturminneloven, men denne eine steinen vi sender er perdefinisjonikkje freda. Steinen er likevel ein del av verdsarven, da den har vore i bruk i ein av dei andre 31 syretårna frå 1910-1911 som no er rivne. Opphaveleg var det to tårnhus med tilsaman 82 slike tårn i granitt.
+Tårnet har eit tikanta snitt, med ein ytre diameter på ca. syv meter. Tårnet er ca. 23 meter høgt og er bygd opp av granittblokker på 100x224x20 cm, med ei totalvekt på ca. 2000 tonn. Syretårnets funksjon var absorpsjon av nitrogen til salpetersyre.
+(link: https://www.industriarven.no/ text: https://www.industriarven.no/)
+
+Kulturminnevern: Rjukan-Notodden industriarv kom inn på UNESCOs verdensarvliste i 2015.
+
+----
+County: Telemark
+----
+Municipality: Tinn
+----
+Stone: Granitt
+----
+Origin: Antatt fraet granittbrudd langs Tinnsjøen
+----
+SizeQuantity: Énstor granittblokk fra syretårn

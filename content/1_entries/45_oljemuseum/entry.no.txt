@@ -1,0 +1,49 @@
+Title: Geologisk monument - Kristian Blystad
+
+----
+
+Donor: Johansens Monumenthuggeri Skjeberg
+
+----
+
+Year: 1999
+
+----
+
+Type: Skulptur
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Overskudd fra hogging av offentlig skulptur i sandstein,Geologisk monumentav Kristian Blystad
+Norsk Oljemuseum er et museum som tar for seg petroleumsvirksomheten utenfor norskekysten helt fra starten i 1960-årene. Museet ligger i Stavanger, og har en stor samling teknisk utstyr fra pionertiden og fremover. Museumsbygningen, Kjerringholmen, er tegnet av arkitektene Lunde & Løvseth.
+(link: https://www.norskolje.museum.no/ text: Norsk Oljemuseum | Norsk Oljemuseum)
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Stavanger
+
+----
+
+Stone: Sandstein
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: To steiner
+
+----
+
+Uuid: 5rkrlagqr2ptmf97

@@ -1,0 +1,48 @@
+Title: Sjøgata
+
+----
+
+Donor: Bodø kommune
+
+----
+
+Year: Etter 1945/1990
+
+----
+
+Type: Gate
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Stein fra Bodøs hovedsentrumsgate. Store deler av Bodø ble bombet og ødelagt under andre verdenskrig, og gjenoppbygget i årene etter 1945. Disse steinene er en del av denne historien.
+(link: https://no.wikipedia.org/wiki/Sjøgata_(Bodø) text: Sjøgata (Bodø) – Wikipedia)
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Bodø
+
+----
+
+Stone: Uspesifisert granitt
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: To sekker storgatestein og fire kantsteiner
+
+----
+
+Uuid: m2wqhse8zo2utikf

@@ -1,0 +1,50 @@
+Title: Akselberg steinbrudd
+
+----
+
+Donor: Brønnøy Kalk
+
+----
+
+Year: 1997
+
+----
+
+Type: Steinbrudd / dagbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+I steinbruddet Akselberg i Velfjord utvinnes kalkmarmor. Det er et råstoff som etter knusing i to omganger brukes ved bleking av papir som erstatning for klor og andre miljøfarlige tilsatser som tidligere ble brukt.
+Steinen, gangbergarten aplitt, varierer i gråfargen og har et grønnskjær i seg. Vedlagt er et bilde av hvordan gangen opptrer i bruddet. Dette er et eksempel på en stor intrusjonsgang av aplitt. Den donerte steinen er rester fra steinbruddproduksjon.
+(link: https://bronnoykalk.no/?lang=no_NO text: Brønnøy kalk - Forside (bronnoykalk.no))
+(link: https://snl.no/aplitt text: aplitt – Store norske leksikon)
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Brønnøysund
+
+----
+
+Stone: Aplitt
+
+----
+
+Origin: Brønnøy
+
+----
+
+Sizequantity: Flere mindre steiner
+
+----
+
+Uuid: ksvunotlepkca91q

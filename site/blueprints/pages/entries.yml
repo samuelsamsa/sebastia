@@ -1,0 +1,22 @@
+title: Entries
+
+icon: list
+
+sections:
+  entries:
+    type: pages
+    headline: All entries
+    parent: page
+    template: entry
+    sortBy: year desc
+    layout: table
+    columns:
+      title:
+        label: Title
+        width: 2/5
+      municipality:
+        label: Municipality
+        width: 1/5
+      county:
+        label: County
+        width: 2/5

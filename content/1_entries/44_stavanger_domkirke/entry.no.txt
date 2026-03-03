@@ -1,0 +1,51 @@
+Title: Stavanger domkirke
+
+----
+
+Donor: Engøyholmen Kystkultursenter
+
+----
+
+Year: Byggeperiode i flere trinn fra 1125
+
+----
+
+Type: Domkirke
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinene fra domkirken er hentet fra under gulvet på domkirken ved den siste restaureringen, ferdig i 2025. De ble trolig lagt under gulvet etter bybrannen i 1272, da også domkirken ble skadet. De har gammel mørtel på seg, og har sannsynlig vært del av en korvegg som ble endret i forbindelse med oppbyggingen av domkirken.
+(link: https://snl.no/Stavanger_domkirke text: https://snl.no/Stavanger_domkirke)
+
+Kulturminnevern: Riksantikvaren
+Mer informasjon om kulturminnevern
+
+----
+
+County: Rogaland
+
+----
+
+Municipality: Stavanger
+
+----
+
+Stone: n/a
+
+----
+
+Origin: Trolig Stavanger
+
+----
+
+Sizequantity: Flere enn ti steiner
+
+----
+
+Uuid: 2vk27ecaksnvbsds

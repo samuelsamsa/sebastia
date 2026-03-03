@@ -1,0 +1,25 @@
+Title: Nasjonalmuseet
+----
+Donor: Statsbygg
+----
+Year: 2014-2021
+----
+Type: Museum
+----
+Protection: 
+----
+Notes:
+Steinene er rester fra byggingen av fasaden til det nye Nasjonalmuseet på Aker brygge i Oslo.
+Den nye museumsorganisasjonen ble opprettet i 2003 gjennom en sammenslåing avNasjonalgalleriet, Arkitekturmuseet, Kunstindustrimuseet og Museet for samtidskunst. De ulike visningsstedene stengte mellom 2016 og 2019, og flyttet inn i sine nye samlede lokaler i 2021-2022.
+(link: https://www.statsbygg.no/prosjekter-og-eiendommer/nytt-nasjonalmuseum text: Nytt nasjonalmuseum - Statsbygg)
+(link: https://www.nasjonalmuseet.no/om-nasjonalmuseet/tidligere-visningssteder/ text: Tidligere visningssteder – Nasjonalmuseet)
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Oppdalskifer
+----
+Origin: Oppdal
+----
+SizeQuantity: Ca. seks paller

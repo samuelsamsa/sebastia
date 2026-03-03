@@ -1,0 +1,22 @@
+Title: Stone warehouse
+----
+Donor: Mosjøen, Vefsn municipality
+----
+Year: n/a
+----
+Type: Stone warehouse
+----
+Protection: 
+----
+Notes:
+Donated a stone from the municipality's own warehouse in Mosjøen.
+----
+County: Nordland
+----
+Municipality: Vefsn
+----
+Stone: Granite
+----
+Origin: n/a
+----
+SizeQuantity: One stone. Granite slab with a depth of 15.3 cm. It is almost rectangular (deviation of 2 cm on each side).So,it needs to be cut a little more. Rectangular it will be: 20x50 cm/22x50 cm.

@@ -1,0 +1,48 @@
+Title: Gater og torg
+
+----
+
+Donor: Skien kommune
+
+----
+
+Year: Ca. 1900
+
+----
+
+Type: Gater og torg
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Brostein og storgatestein brukt i Skiens gater fra århundreskiftet (ca. 1900) og frem til belegget ble erstattet av asfalt.
+Steinen er hentet fra det lokale Steinbruddet 4-24, 3718 Skien.
+
+----
+
+County: Telemark
+
+----
+
+Municipality: Skien
+
+----
+
+Stone: Granitt
+
+----
+
+Origin: Lokalt steinbrudd, Skien
+
+----
+
+Sizequantity: To paller brostein
+
+----
+
+Uuid: x2i0a2ziq0oxf5ze

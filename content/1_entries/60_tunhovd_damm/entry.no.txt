@@ -1,0 +1,26 @@
+Title: Tunhovd dam
+----
+Donor: Statkraft
+----
+Year: 1915-20/1966
+----
+Type: Vannkraftverk
+----
+Protection: 
+----
+Notes: Steinen kommer fraTunhovddammen i Numedal, som ble bygd i to omganger, først i 1915-20 og deretter i 1966.
+Tunhovddammen ble anlagt i forbindelse med utbyggingen av Norefallene, som startet med at staten kjøpte dem i 1907. Dambyggingen pågikk i 1915-20, og var et populært sted å besøke. Den var på den tiden en av landets største betongdammer. I 1966 ble den gamle dammen bygd inn i den nye, som er en steinfyllingsdam. Det går en bilvei over dammen. Dagens dam er 275 meter, og den største høyden er 37 meter.
+(link: https://www.nb.no/items/6f7acaeef77cca8035c58b245aafc08d?page=0&searchText=Tunhovd text: [Tunhovddammen?] (nb.no))
+(link: https://www.nve.no/om-nve/nves-listefoerte-kulturminner/dammer/tunhovddammen/ text: Dam: Tunhovddammen (nve.no))
+
+Kulturminnevern: Kraftverket Nore 1 er utpekt som nasjonalt bevaringsverdig i NVEs prosjekt «Kulturminnner i norsk kraftproduksjon», og inngår i Landsverneplan Statkraft.
+----
+County: Buskerud
+----
+Municipality: Numedal
+----
+Stone: n/a
+----
+Origin: Numedal
+----
+SizeQuantity: Ti store steiner

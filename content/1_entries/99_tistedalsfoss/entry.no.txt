@@ -1,0 +1,24 @@
+Title: Tistedalsfoss kraftverk
+----
+Donor: Akershus Energi AS
+----
+Year: 1887
+----
+Type: Kraftstasjon
+----
+Protection: 
+----
+Notes:
+Steinene kommer fra Svanedammen ved Tistedalsfoss kraftverk i Halden kommune. Kraftproduksjon der startet i 1887.
+(link: https://snl.no/Tistedalsfoss_kraftverk text: Tistedalsfoss kraftverk – Store norske leksikon (snl.no))
+(link: https://snl.no/Haldenvassdraget text: Haldenvassdraget – Store norske leksikon)
+----
+County: Østfold
+----
+Municipality: Halden
+----
+Stone: Granitt
+----
+Origin: Trolig Halden
+----
+SizeQuantity: To lange og to kvadratiske steiner

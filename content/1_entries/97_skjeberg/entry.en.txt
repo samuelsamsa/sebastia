@@ -1,0 +1,24 @@
+Title: Johansens Monumenthuggeri
+----
+Donor: Skjeberg
+----
+Year: 1946
+----
+Type: Stone workshop
+----
+Protection: 
+----
+Notes:
+The stone workshop is located in Skjeberg and has been in operation since 1946.Many of the stones for Sebastia have been cut there.
+They have donated stones of various origins, from production to different use.
+(link: https://johansenmonument.no/ text: Johansen Monumenthuggeri AS - Gravstein og Skulptur)
+----
+County: Østfold
+----
+Municipality: Sarpsborg
+----
+Stone: Rennebugranite, Lødingengranite, Groruditt, Hallandia
+----
+Origin: Rennebu, Lødingen, Grorud, Halland
+----
+SizeQuantity: n/a

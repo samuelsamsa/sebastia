@@ -1,0 +1,51 @@
+Title: Gater og torg i Bergen
+
+----
+
+Donor: Bergen kommune
+
+----
+
+Year: Fra 1500-tallet og fremover
+
+----
+
+Type: Gater og torg
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Storgatesteinene er hentet fra Bergen kommunes lager. Steinene har ulike fasong og farge, og flere av dem er tydelig hugget for hånd.
+Bergen var en av de første byene i Norge som fikk brostein, allerede på 1500-tallet. Steinen som Bergen har gitt prosjektet er fra ulike perioder, og av ulik størrelse. Den kan være brukt på gaten, på fortau eller rennestein. Steinene kommer fra mange ulike steder og kan ha vært brukt flere ganger.
+(link: https://snl.no/Bergen text: Bergen – kommune i Vestland – Store norske leksikon (snl.no))
+
+----
+
+County: Vestland
+
+----
+
+Municipality: Bergen
+
+----
+
+Stone: Gneis
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity:
+
+Åtte sekker og paller med storgatestein
+
+----
+
+Uuid: d1eqjh5ig2e6zrs6

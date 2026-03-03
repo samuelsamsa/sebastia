@@ -1,0 +1,24 @@
+Title: Road wall
+----
+Donor: Namsos municipality
+----
+Year: After 1955
+----
+Type: Wall
+----
+Protection: 
+----
+Notes:
+Road wall with stone from the former Namsos church, 1897-1903/1645-1955.Thedry-stonewall at Niels Bjørums gate 14-28 is erected with stone from the former Namsos church. A long church in grey stone, designed by Karl Norum, was consecrated on 18 December 1903. On 20 April 1940, Namsos was bombed, and everything flammable in the church burned, so that only the walls remained. The demolition of these was decided, and a new church was built after the war.
+(link: https://digitaltmuseum.no/011015370611/namsos-kirke-1903-1940 text: Namsos Church 1903-1940 - Digital Museum)
+(link: https://digitaltmuseum.no/011015367956/namsos-kirke-etter-bombingen-20-04-1940 text: Namsos Church arter the bombing 20.04.1940 - Digital Museum)
+----
+County: Trøndelag
+----
+Municipality: Namsos
+----
+Stone: Referenced as grey stone, probably granite
+----
+Origin: Namsos
+----
+SizeQuantity: One stone, extracted

@@ -1,0 +1,24 @@
+Title: Margaretakyrkan, Olso
+----
+Donor: Svenska kyrkan i Norge
+----
+Year: 1925
+----
+Type: Kirke
+----
+Protection: Byantikvaren
+----
+Notes:
+Steinen kommer fra den ytre kledningen av grunnmuren, som ble restaurert i 2025 i forbindelse med kirkens 100-årsjubileum.
+Margaretakyrken, Svenska kyrkan i Oslo, ligger på Hammersborghøyden og er nabo til det tidligere Deichman bibliotek og nye regjeringskvartalet. Ved terrorbomben i 2011 ble alle glassmalerier i kirken knust.
+(link: https://oslobyleksikon.no/side/Margaretakyrkan text: Margaretakyrkan – Oslo byleksikon)
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Bohusgranitt
+----
+Origin: Bohuslän, Sverige
+----
+SizeQuantity: Én stein

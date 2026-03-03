@@ -1,0 +1,48 @@
+Title: Steinbrudd Vestre Bolæren
+
+----
+
+Donor: Færder kommune
+
+----
+
+Year: Siden 1800 (men trolig tidligere)-frem til ca. 1914
+
+----
+
+Type: Steinbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Overskuddstein fra steinbrudd på øya Vestre Bolæren. Driften av steinbruddet opphørte da Forsvaret tok over under første verdenskrig. Den mursteinsrøde, grovkornede tønsbergitten fra steinbruddet på Bolæren, er blant annet brukt i grunnmuren på Slottet.
+(link: https://www.notteroyhistorielag.no/velholdt-anlegg-med-hoy-bevaringsverdi/ text: «Velholdt anlegg med høy bevaringsverdi» – Nøtterøy Historielag)
+
+----
+
+County: Vestfold
+
+----
+
+Municipality: Færder
+
+----
+
+Stone: Rød og svart tønsbergitt
+
+----
+
+Origin: Vestre Bolæren
+
+----
+
+Sizequantity: Firepaller med fem steiner
+
+----
+
+Uuid: ixqhkoi8xk2jprah

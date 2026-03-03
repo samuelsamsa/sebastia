@@ -1,0 +1,24 @@
+Title: Tistedalsfoss power plant
+----
+Donor: Akershus Energi AS
+----
+Year: 1887
+----
+Type: Power station
+----
+Protection: 
+----
+Notes:
+The stones come from the Swan Dam at Tistedalsfoss power plant in Halden municipality. Power production there began in 1887.
+(link: https://snl.no/Tistedalsfoss_kraftverk text: Tistedalsfoss kraftverk – Store norske leksikon (snl.no))
+(link: https://snl.no/Haldenvassdraget text: Haldenvassdraget – Store norske leksikon)
+----
+County: Østfold
+----
+Municipality: Halden
+----
+Stone: Granite
+----
+Origin: Probably Halden
+----
+SizeQuantity: Two long and two square stones

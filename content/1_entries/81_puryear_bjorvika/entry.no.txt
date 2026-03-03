@@ -1,0 +1,24 @@
+Title: Creature from Iddefjord - Martin Puryear, Deichmanske Bjørvika
+----
+Donor: Johansens Monumenthuggeri Skjeberg
+----
+Year: 2020
+----
+Type: Skulptur
+----
+Protection: 
+----
+Notes:
+Steinene er rester fra produksjonen av skulpturenCreature from Iddefjordav Martin Puryear, som står utenfor Norges hovedbibliotek, Deichman Bjørvika i Oslo. Den ble montert i 2020, og er en del av Sparebankstiftelsen DnBs prosjekt «Skulpturstopp» som finansierer offentlige kunstverk på Østlandet.
+(link: https://www.skulpturstopp.no/oslo-puryear text: Oslo - Puryear — Skulpturstopp)
+(link: https://deichman.no/bibliotekene/bjørvika text: Bjørvika - Deichman.no)
+----
+County: Oslo
+----
+Municipality: Oslo
+----
+Stone: Iddefjordgranitt
+----
+Origin: Iddefjord
+----
+SizeQuantity: Flere paller med steiner

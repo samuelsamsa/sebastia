@@ -1,0 +1,48 @@
+Title: Steinlager
+
+----
+
+Donor: Halden kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: Steinlager
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+De donerte steinene kommer fra kommunens steinlager. Blant dem er sandstein fra Immanuels kirke,
+feltspat (hvit stein), kleberstein, overskuddsstein fra trapp til bad, pilarer fra port til bad eller skole, storgatestein og kantstein.
+
+----
+
+County: Østfold
+
+----
+
+Municipality: Halden
+
+----
+
+Stone: Sandstein, feltspat, granitt
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Flere paller med stein i ulike størrelser
+
+----
+
+Uuid: awm0mghtugninkfm

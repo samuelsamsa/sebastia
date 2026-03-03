@@ -1,0 +1,30 @@
+Title: Campus Ås
+----
+Donor: Norges miljø- og biovitenskapelige universitet (NMBU)
+----
+Year: 1859
+----
+Type: Universitet
+----
+Protection: 
+----
+Notes:
+I 1859 ble Landbrugsskole i Aas opprettet, og skiftet navn i 1897 til Norges landbrukshøgskole (NLH).
+Ved siden av undervisning var forskning en hovedoppgave fra starten av. Skolen drev en omfattende forsøksvirksomhet for å utvikle landbruksmetoder og kulturplanter for norske forhold.
+I 2005 fikk skolen status som universitet og skiftet navn til Universitet for miljø- og biovitenskap (UMB).
+I 2014 ble UMB sammenslått med Norges veterinærhøgskole, og skiftet navn til Norges miljø- og biovitenskapelige universitet (NMBU).
+Kjerneområdene for undervisning, grunn- og anvendt forskning, er bioproduksjon (skogbruk, landbruk, akvakultur, mat og veterinærmedisin), økonomi, areal- og naturressursforvaltning, landskap, teknologi, realfag, kjemi, folke- og dyrehelse samt samfunnsfag.
+Campus Ås huser i tillegg til NMBU, blant andre (link: https://www.vetinst.no/ text: Veterinærinstituttet), (link: https://www.nibio.no/ text: NIBIO) og (link: https://nofima.no/ text: Nofima).
+(link: https://www.nmbu.no/om text: Om NMBU | NMBU)
+(link: https://www.nmbu.no/om/campus text: Campus | NMBU)(link: https://www.statsbygg.no/prosjekter-og-eiendommer/campus-aas text: Campus Ås - Statsbygg)
+----
+County: Akershus
+----
+Municipality: Ås
+----
+Stone: Larvikitt, rød og grå granitt
+----
+Origin: Rød granitt fra Nordskogen, Ås - sent 1800-tall
+Larvikitt og grå granitt fra byggingen av Uraksen - 2015-2021
+----
+SizeQuantity: Tre steiner fra campus

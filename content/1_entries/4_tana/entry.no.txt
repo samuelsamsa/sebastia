@@ -1,0 +1,49 @@
+Title: Erindring/Muitu
+
+----
+
+Donor: Johansen Monumenthuggeri Skjeberg
+
+----
+
+Year: 2014
+
+----
+
+Type: Krigsminnemonument
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen er reststein fra produksjon av minnemonumentet utenfor Tana kirke som ble reist i forbindelse med 70-årsmarkering av freden i Øst-Finnmark 8. november 1944.
+Monumentet er utført av Annelise Josefsen (f. 1949). Hun er sjøsamisk kunstner som bor og arbeider i Finnmark.
+(link: https://www.nrk.no/sapmi/avduker-krigsminnemonument-1.11980617 text: Avduker krigsminnemonument – NRK Sápmi - samiske nyheter, kultur og underholdning)
+
+----
+
+County: Finnmark
+
+----
+
+Municipality: Tana
+
+----
+
+Stone: (annet)Balmoral
+
+----
+
+Origin: Finland
+
+----
+
+Sizequantity: Flere store blokker
+
+----
+
+Uuid: tzz36s9i8ke8bntk

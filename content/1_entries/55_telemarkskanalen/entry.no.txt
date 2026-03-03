@@ -1,0 +1,25 @@
+Title: Hjellebrygga, Telemarkskanalen
+----
+Donor: Skien kommune
+----
+Year: 1900-1911
+----
+Type: Kanalbrygge
+
+----
+Protection: 
+----
+Notes: Den første delen av Hjellebrygga ved Telemarkskanalen sto ferdig i 1900. Før den tid hadde kanalbåtene avgangsbrygge på Smieøya på den andre siden av Hjellevannet. Etter noen år fikk Hjellebrygga et vareskur. Da kunne varer som skulle fraktes med båten stables under tak, beskyttet mot vær og vind. Samtidig ble det vesle ekspedisjonsbygget i murstein bygd.
+I 1911 sto hele brygga ferdig, like lang som den er i dag og med to vareskur. Da ble det travel trafikk fra brygga med tusenvis av passasjerer og mange tonn varer som skulle fraktes videre oppover i Telemarkskanalen hvert år.
+(link: https://skiensvassdraget.no/lokasjoner/hjellebrygga/ text: https://skiensvassdraget.no/lokasjoner/hjellebrygga/)
+
+----
+County: Telemark
+----
+Municipality: Skien
+----
+Stone: Granitt
+----
+Origin: n/a
+----
+SizeQuantity: To store heller/steiner

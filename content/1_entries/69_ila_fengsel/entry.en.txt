@@ -1,0 +1,22 @@
+Title: Ila Prison
+----
+Donor: Ila Prison/Statsbygg
+----
+Year: n/a
+----
+Type: Prison
+----
+Protection: 
+----
+Notes:
+(link: https://ilafengsel.no/ text: Ila prison and detention center)
+----
+County: Akershus
+----
+Municipality: Bærum
+----
+Stone: n/a
+----
+Origin: Ila
+----
+SizeQuantity: One small stone

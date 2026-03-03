@@ -1,0 +1,49 @@
+Title: Tøyen hovedgård
+
+----
+
+Donor: Forsvarsbygg
+
+----
+
+Year: Trolig 16-1700-tallet
+
+----
+
+Type: Trapp
+
+----
+
+Protection: Byantikvaren
+
+----
+
+Notes:
+
+Stein fra restaurering av trapp på Tøyen hovedgård, Oslo.
+Tøyen hovedgård er kjent fra middelalderen. Den hadde skiftende eiere frem til 1812, da den ble overdratt til Kong Frederik 6, som skjenket den til det nyopprettede universitetet i Christiania. Det var opprinnelig meningen å legge universitetet til Tøyen, men det ble i stedet anlagt løkkeeiendommer til boliger for professorer («professorbyen»).
+Hovedbølet ligger nå i Universitetets botaniske hage. Hovedbygningen i to etasjer er oppført i panelt tømmer og første gang omtalt i 1721, delvis oppført på kjeller fra 1600-tallet. Den har to enetasjes sidefløyer. Dagens utseende fikk den i hovedsak ved en ombygging i 1779. Gårdsanlegget er fredet. Jordveien rundt gårdsanlegget ble utlagt til botanisk hage i 1820-årene. Universitetets naturhistoriske museum med botanisk hage ligger på Tøyen gårds grunn.
+
+----
+
+County: Oslo
+
+----
+
+Municipality: Oslo
+
+----
+
+Stone: Porsgrunnkalkstein
+
+----
+
+Origin: Porsgrunn
+
+----
+
+Sizequantity: Én-to paller med stein
+
+----
+
+Uuid: zavbsxll0jqk48og

@@ -1,0 +1,51 @@
+Title: Sokkel for Fridtjof Nansen statue, Holmenkollen, Oslo
+
+----
+
+Donor: Johansens Monumenthuggeri Skjeberg
+
+----
+
+Year: Før 1964
+
+----
+
+Type: Monument
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen kommer fra sokkelen til en statue av Fridtjof Nansen. Skulpturen ble flyttet dit i 1964 fra Frammuseet på Bygdøy.
+Fridtjof Nansen (1861-1930) er en av Norges mest allsidige og internasjonalt berømte personer gjennom tidene. Han var en banebrytende naturforsker, polarekspedisjonsleder, forfatter,kunstner, diplomat og filantrop. Han ble tildelt Nobels fredspris i 1922.
+Skimuseet er verdens eldste og Norges største samling av ski og annet vinterutstyr. Det eies av Foreningen til Ski-Idrettens Fremme. Museet ble åpnet i 1923 på Frognerseteren i Oslo, og flyttet i 1951 til Holmenkollbakken med lokaler inne i selve hoppet. Siden 1983 har det holdt til i nye lokaler i fjellet ved siden av, tegnet av arkitekt Arnstein Friling og utvidet i perioden 1997–1999.
+(link: https://snl.no/Fridtjof_Nansen text: Fridtjof Nansen – polarfarer, humanist, diplomat)
+(link: https://snl.no/Skimuseet text: Skimuseet – Store norske leksikon)
+
+----
+
+County: Oslo
+
+----
+
+Municipality: Oslo
+
+----
+
+Stone: Grorudgranitt
+
+----
+
+Origin: Grorud
+
+----
+
+Sizequantity: Én steinblokk
+
+----
+
+Uuid: l2xgxqpsxkfbsvxx

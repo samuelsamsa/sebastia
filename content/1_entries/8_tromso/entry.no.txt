@@ -1,0 +1,48 @@
+Title: Storgata, Tromsø citycentre
+
+----
+
+Donor: Tromsø kommune
+
+----
+
+Year: 1800/1994
+
+----
+
+Type: Gate
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Steinen ergatestein fra Storgata i Tromsø. Gata ble pusset opp og gjort om til en gågate i forbindelse med Tromsøs 200-årsjubileum i 1994. Den ble anlagt som en rett gate de første tiårene på 1800-tallet.
+(link: https://lokalhistoriewiki.no/wiki/Storgata_(Tromsø) text: https://lokalhistoriewiki.no/wiki/Storgata_(Troms%C3%B8))
+
+----
+
+County: Troms
+
+----
+
+Municipality: Tromsø
+
+----
+
+Stone: Uspesifisert granitt
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: Énpall storgatestein
+
+----
+
+Uuid: a6vd1oojxoy58xnx

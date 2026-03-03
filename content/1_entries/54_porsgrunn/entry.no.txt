@@ -1,0 +1,50 @@
+Title: Porsgrunnmarmor
+
+----
+
+Donor: Porsgrunn kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: n/a
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+I porsgrunnmarmoren finnes flere gode eksemplarer på fossiler av både sjøliljer og koraller.
+Usikkert opphav og tidligere bruk.
+De donerte steinene skulle egentlig gått til knusing i pukkverk.
+(link: https://geogleblog.com/2019/07/11/porsgrunn-marmor-bjorntvet/ text: Porsgrunn marmor – Bjørntvet – Petrologi (geogleblog.com))
+
+----
+
+County: Telemark
+
+----
+
+Municipality: Porsgrunn
+
+----
+
+Stone: Porsgrunnmarmor
+
+----
+
+Origin: Porsgrunn
+
+----
+
+Sizequantity: Tre mindre steiner
+
+----
+
+Uuid: hk9y5amwe644mcek

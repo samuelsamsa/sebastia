@@ -1,0 +1,45 @@
+Title: Ila fengsel
+
+----
+
+Donor: Ila fengsel/Statsbygg
+
+----
+
+Year: n/a
+
+----
+
+Type: Fengsel
+
+----
+
+Protection: 
+
+----
+
+Notes: (link: https://ilafengsel.no/ text: Ila fengsel og forvaringsanstalt)
+
+----
+
+County: Akershus
+
+----
+
+Municipality: Bærum
+
+----
+
+Stone: n/a
+
+----
+
+Origin: Ila
+
+----
+
+Sizequantity: Én liten stein
+
+----
+
+Uuid: p9eag07qg6wbqmiy

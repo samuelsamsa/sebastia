@@ -1,0 +1,48 @@
+Title: Steinbrudd
+
+----
+
+Donor: Norwegian Rose Quarry
+
+----
+
+Year: 1884
+
+----
+
+Type: Steinbrudd
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Det eldste og største marmorbruddet i Nord-Europa ligger i Fauske. Marmoren består av mange forskjellige farger, som rosa, hvit, lys- og mørkegrå samt lys mintgrønn. De donerte steinene er rester fra steinbruddproduksjon.
+(link: https://snl.no/Fauskemarmor text: Fauskemarmor – Store norske leksikon)
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Fauske / Fuosko
+
+----
+
+Stone: Fauskemarmor
+
+----
+
+Origin: Fauske / Fuosko
+
+----
+
+Sizequantity: Tre blokker rosa fauskemarmor
+
+----
+
+Uuid: zszahldggc3jqdex

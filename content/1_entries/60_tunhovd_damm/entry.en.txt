@@ -1,0 +1,28 @@
+Title: Tunhovd dam
+----
+Donor: Statkraft
+----
+Year: 1915-20/1966
+----
+Type: Hydropower plant
+----
+Protection: 
+----
+Notes:
+The stone comes from Tunhovddammen in Numedal, which was built in two stages, first in 1915-20 and then in 1966.
+Tunhovddammen was built in connection with the development of the Norefallene, which began with the state purchasing them in 1907. The dam construction was ongoing from 1915 to20, and it was a popular place to visit. At the time, it was one of the country's largest concrete dams. In 1966, the old dam was built into the new one, which is a rockfill dam. A road runs across the dam. Today's dam is 275 meters, and the greatest height is 37 meters.
+(link: https://www.nb.no/items/6f7acaeef77cca8035c58b245aafc08d?page=0&searchText=Tunhovd text: [Tunhovddammen?] (nb.no))
+(link: https://www.nve.no/om-nve/nves-listefoerte-kulturminner/dammer/tunhovddammen/ text: Dam: Tunhovddammen (nve.no))
+
+Protection: The Nore 1 power plant has been designated as a national heritage site in the NVE project "Cultural heritage in Norwegian power production" and is included in the Statkraft National Conservation Plan.
+
+----
+County: Buskerud
+----
+Municipality: Numedal
+----
+Stone: n/a
+----
+Origin: Numedal
+----
+SizeQuantity: Ten large stones

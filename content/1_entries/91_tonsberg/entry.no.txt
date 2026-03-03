@@ -1,0 +1,48 @@
+Title: Gate i Tønsberg
+
+----
+
+Donor: Tønsberg kommune
+
+----
+
+Year: n/a
+
+----
+
+Type: Gate
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Mest sannsynlig fra gateløp i Tønsberg sentrum.Det er ingen verning av steinene.Undersøkelser av middelalderkirkene i Tønsberg viser detaljer hugget i rød tønsbergitt, så dette tyder påsteinhoggervirksomhet rundt Tønsberg allerede i middelalderen.
+(link: https://www.tonsberg.kommune.no/tjenester/kultur-idrett-og-fritid/kulturminner-og-middelalderfestivaler/kulturminner/ text: https://www.tonsberg.kommune.no/tjenester/kultur-idrett-og-fritid/kulturminner-og-middelalderfestivaler/kulturminner/)
+
+----
+
+County: Vestfold
+
+----
+
+Municipality: Tønsberg
+
+----
+
+Stone: Tønsbergitt
+
+----
+
+Origin: Tønsberg
+
+----
+
+Sizequantity: To store gatesteiner
+
+----
+
+Uuid: ce9ihesiekdlvtki

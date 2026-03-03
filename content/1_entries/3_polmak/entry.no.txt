@@ -1,0 +1,50 @@
+Title: Polmak tollsted
+
+----
+
+Donor: Tolletaten/Statsbygg
+
+----
+
+Year: 2025
+
+----
+
+Type: Toll- og kontrollstasjon
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Nytt tollsted ligger omtrent 50 meter fra den finske grensen, som er Finlands nordligste punkt.
+Den gamle tollstasjonen lå et par kilometer inn i Norge, i et vernet hus fra 1950-tallet.
+Polmak ligger på sørsiden av elva Tana ved riksgrensen til Finland. Elva Tana er Norges tredje lengste elv, og danner i lange strekninger riksgrensen mellom Norge og Finland.
+Polmak (nordsamiskBuolbmát, kvensk og finsk Pulmanki) ligger i Tana kommune i Øst-Finnmark. Kommunen hører til forvaltningsområdet for samisk språk. Tana er en trespråklig kommune der det brukes norsk, samisk og kvensk. Deanu musea -Tana Museum for elvesamisk kultur ligger i Polmak.
+
+----
+
+County: Finnmark
+
+----
+
+Municipality: Tana
+
+----
+
+Stone: Kvartsitt
+
+----
+
+Origin: Trolig Finnmark
+
+----
+
+Sizequantity: Én liten stein
+
+----
+
+Uuid: hclgedmwqieadmwf

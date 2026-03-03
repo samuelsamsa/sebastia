@@ -1,0 +1,49 @@
+Title: Toralfhuset
+
+----
+
+Donor: Fortidsminneforeningen
+
+----
+
+Year: Ca. 1900
+
+----
+
+Type: Privat hus
+
+----
+
+Protection: 
+
+----
+
+Notes:
+
+Skifersteinene kommer fra taket til huset, som er kjent som det mest fotograferte huset i Lofoten. Den siste beboeren het Toralf Mikaelsen (1902-1973). Huset på Kårøya har stått tomt og forfalt siden hans død.
+(link: https://www.nrk.no/nordland/xl/huset-pa-rost_-_toralfhuset__-i-lofoten-star-et-ubebodd-hus-fa-kjenner-historien-til-1.15178069 text: Huset på Røst, «Toralfhuset»: I Lofoten står et ubebodd hus få kjenner historien til – Nordland (nrk.no))
+(link: https://www.nrk.no/nordland/rost_-toralf-huset_-lofotens-mest-fotograferte-hus-far-sta.-det-er-miljovenleg-seier-riksantikvaren-1.15532689 text: Røst: Toralf-huset, Lofotens mest fotograferte hus får stå. Det er miljøvenleg seier riksantikvaren – NRK Nordland)
+
+----
+
+County: Nordland
+
+----
+
+Municipality: Røst
+
+----
+
+Stone: Skifer
+
+----
+
+Origin: n/a
+
+----
+
+Sizequantity: 13 skiferplater fra tak
+
+----
+
+Uuid: dsavwydaot8mpo1l
